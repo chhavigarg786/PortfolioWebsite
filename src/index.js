@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Header from './components/header/header';
 import App from './App';
-import Nav from './components/nav/Nav.jsx';
+import Nav from './components/nav/nav.jsx';
 import About from './components/about/about';
 import Experience from './components/experience/experience';
  import Services from './components/services/services';
